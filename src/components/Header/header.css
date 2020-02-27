@@ -1,0 +1,12 @@
+.social {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.social:hover {
+    color: grey !important;
+}
+
+#email {
+    visibility: hidden;
+}

@@ -1,0 +1,49 @@
+{ 
+    "items":[ 
+       { 
+          "specifiedGroup":null,
+          "season":"SOMMAR",
+          "width":265,
+          "aspectRatio":70,
+          "rimDimension":19.5,
+          "diameter":0,
+          "threadPattern":"AH35",
+          "tireType":0,
+          "loadIndex":"140/138",
+          "speedIndex":"M",
+          "runOnFlat":false,
+          "rollingResistance":null,
+          "wetGrip":null,
+          "noisedB":0,
+          "noiseWaves":0,
+          "rollerCircumference":2644,
+          "load":"0.0",
+          "loadClassification":"C3",
+          "originalMounted":null,
+          "name2":"AH35",
+          "infoText":"C3, False, ",
+          "description":null,
+          "code":"HNK26570195AH35",
+          "name":"HANKOOK 265/70R19,5 140/138M",
+          "imageURL":"/Images/Tires/",
+          "inventory":{ 
+             "internal":"3",
+             "external":"0"
+          },
+          "discount":0.0,
+          "consumerPrice":4036,
+          "price":2190,
+          "grossPrice":2190,
+          "isFavorite":false,
+          "manufacturerArticleNumber":null,
+          "eanCode":null,
+          "environmentTax":"2",
+          "brand":"HANKOOK",
+          "imageId":"AH35"
+       }
+    ],
+    "totalHits":1,
+    "inputIsNull":false,
+    "aggregationModel":{  },
+    "vehicleInformation":null
+ }
