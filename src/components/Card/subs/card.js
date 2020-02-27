@@ -19,7 +19,7 @@ const Card = ({ img, bg, title, text, arcImage }) => {
       <img
         src={img}
         className="card-img img-fluid"
-        style={{ maxWidth: "300px", minHeight: "200px" }}
+        style={{ maxWidth: "320px", minHeight: "200px" }}
       />
       <div className="card-body text-white d-flex flex-column align-items-center">
         <div style={arc}></div>
