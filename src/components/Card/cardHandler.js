@@ -4,7 +4,6 @@ import a1 from "../../assets/a1.jpg";
 import a2 from "../../assets/a2.png";
 import a3 from "../../assets/a3.jpg";
 import angular from "../../assets/angular.png";
-import react from "../../assets/react.png";
 import adobe from "../../assets/adobe.png";
 import html from "../../assets/html.png";
 
